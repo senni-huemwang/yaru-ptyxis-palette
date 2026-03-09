@@ -2,7 +2,7 @@
 
 Ubuntu's Yaru theme inspired palette for Ptyxis terminal (since Ubuntu's own theme were too purple)
 
-[Screenshot](Screenshot.png)
+![Screenshot](Screenshot.png)
 
 ## Installation
 
